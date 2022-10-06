@@ -1,0 +1,30 @@
+@media screen and (max-width:851px) {
+
+
+    .pricing-div{
+        display: block;
+        /* align-items: center; */
+        margin: 10px 10px;
+
+    }
+
+    .free{
+        border-right: 2px solid transparent;
+        width: 90%;
+    }
+    .gold{
+        border-right: 2px solid transparent;
+        width: 90%;
+
+    }
+
+    .platinum{
+        border-right: 2px solid transparent;
+        width: 90%;
+    }
+
+    .diamond{
+        width: 100%;
+    }
+
+}
